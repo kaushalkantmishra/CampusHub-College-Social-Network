@@ -1,5 +1,5 @@
 <?php
 // Create connection
-$con=mysqli_connect("localhost","root","0504","college_social_network","3307");
+$con=mysqli_connect("localhost","root","","campus-hub","3308");
 echo  mysqli_connect_error();
 ?>
